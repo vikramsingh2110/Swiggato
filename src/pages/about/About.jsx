@@ -61,7 +61,7 @@ class About extends React.Component {
                                     VikramCodes
                                 </Link>
                                 <Link
-                                    to={"https://github.com/12Codes/Swiggato"}
+                                    to={"https://github.com/vikramsingh2110/Swiggato"}
                                     target="_blank"
                                     className="btn"
                                 >
